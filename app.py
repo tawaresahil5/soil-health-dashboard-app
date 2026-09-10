@@ -10,7 +10,7 @@ from fpdf import FPDF
 
 # --- PAGE CONFIGURATION ---
 st.set_page_config(
-    page_title="Soil Health & Farmer Awareness Dashboard",
+    page_title=" Soil Health & Farmer Awareness Dashboard ",
     page_icon="🌱",
     layout="wide",
     initial_sidebar_state="expanded"
